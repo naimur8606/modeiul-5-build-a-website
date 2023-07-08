@@ -5,7 +5,7 @@
 }
 .banner{
     height: 808px;
-    background-image: url('../images/banner/banner1.png');
+    background-image: url('./images/banner/banner1.png');
     background-size: 100%;
     background-repeat: no-repeat;
     
@@ -102,7 +102,7 @@
 .carosel{
     margin: 20px 120px;
     padding: 80px;
-    background-image: url('../images/gradient2.png');
+    background-image: url('./images/gradient2.png');
     background-size: cover;
 }
 .carosel-title{
